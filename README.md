@@ -4,6 +4,8 @@ In September 9 and September 19, two earthquakes hit Mexico leaving hundreds of 
 
 For any inquiries contact me: e.blancas@columbia.edu
 
+![lasa](lasa.jpeg)
+
 ### Donate via Venmo
 
 The following Venmo accounts are raising money:
