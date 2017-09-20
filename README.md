@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Mexico needs your help
 
-You can use the [editor on GitHub](https://github.com/edublancas/help-mx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In September 9 and September 19, two earthquakes hit Mexico leaving hundreds of victims. Mexican students in NYC are helping raise funds for several organizations that are assisting in relief tasks. There are many ways to donate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For any inquiries contact me: e.blancas@columbia.edu
 
-### Markdown
+### Donate via Venmo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following Venmo accounts are raising money:
 
-```markdown
-Syntax highlighted code block
+* Latin American Student Association (@SIPA_LASA)
+* Columbia Business School Students (@Mexico-CBShelp)
 
-# Header 1
-## Header 2
-### Header 3
+### Donate via Paypal
 
-- Bulleted
-- List
+* Topos (search and rescue nonprofit) (donativos@brigada-rescate-topos.org)
 
-1. Numbered
-2. List
+### Red Cross whislist in Amazon Mexico (in Spanish)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edublancas/help-mx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [See wishlist](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=59f95f2a-5084-4d96-a1c4-ffe45abcc16e&pf_rd_s=grid-1-takeover&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=AVDBXBAVVSXLQ&pf_rd_r=3CQ3TF2BQ0WMHAMNSC7B&pf_rd_r=3CQ3TF2BQ0WMHAMNSC7B&pf_rd_p=59f95f2a-5084-4d96-a1c4-ffe45abcc16e)
