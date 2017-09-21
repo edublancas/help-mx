@@ -1,6 +1,6 @@
 ## Mexico needs your help
 
-In September 9 and September 19, two earthquakes hit Mexico leaving thousands of victims. Mexican students in NYC are helping raise funds for several organizations that are assisting in relief tasks. There are many ways to donate.
+In September 9 and September 19, two earthquakes hit Mexico leaving thousands of victims. Mexican students in NYC are raising funds for several organizations that are assisting in relief tasks. There are many ways to donate.
 
 For any inquiries contact me: e.blancas@columbia.edu
 
