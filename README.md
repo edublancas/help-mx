@@ -14,6 +14,7 @@ The following Venmo accounts are raising money:
 ### Donate via Paypal
 
 * Topos (search and rescue nonprofit) (donativos@brigada-rescate-topos.org)
+* [Mexican Global Network](http://www.mxgn.org/donations/mexico-earthquake-relief/)
 
 ### Donate via DirectRelief (Paypal and Credit Card)
 
