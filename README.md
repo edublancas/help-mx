@@ -20,6 +20,10 @@ The following Venmo accounts are raising money:
 
 * [Direct Relief](https://secure.directrelief.org/site/Donation2?df_id=2105&mfc_pref=T&2105.donation=form1&set.SingleDesignee=1923)
 
+### Donate via Oxfam - UK (Paypal and Credit Card)
+
+* [Oxfam](https://donate.oxfam.org.uk/emergency/mexico-earthquake?pscid=ps_ggl_Emergencies_mexico_earthquake_generic&gclid=EAIaIQobChMI37u1l5-01gIVDc-yCh0ImAOcEAAYASAAEgJ5xfD_BwE&gclsrc=aw.ds&dclid=COv9gpmftNYCFVWF7QodUtcOfg)
+
 ### Red Cross wishlist in Amazon Mexico (in Spanish)
 
 * [See wishlist](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=59f95f2a-5084-4d96-a1c4-ffe45abcc16e&pf_rd_s=grid-1-takeover&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=AVDBXBAVVSXLQ&pf_rd_r=3CQ3TF2BQ0WMHAMNSC7B&pf_rd_r=3CQ3TF2BQ0WMHAMNSC7B&pf_rd_p=59f95f2a-5084-4d96-a1c4-ffe45abcc16e)
